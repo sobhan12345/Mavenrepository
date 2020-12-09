@@ -7,6 +7,15 @@
   <groupId>shobhanbabu</groupId>
   <artifactId>simplejar</artifactId>
   <version>1.0-SNAPSHOT</version>
+  
+  
+  <distributionManagement>  
+    <snapshotRepository>
+      <id>nexus-snapshots</id>
+      <!-- CHANGE HERE by your team nexus server -->
+      <url>http://13.235.2.189:8081/repository/nexus-snapshots/</url>
+    </snapshotRepository>
+  </distributionManagement>
 
   <name>simplejar</name>
   <description>A simple simplejar.</description>

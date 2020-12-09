@@ -19,11 +19,6 @@
     <maven.compiler.target>1.7</maven.compiler.target>
   </properties>
    <distributionManagement>
-        <repository>
-            <id>sampl_release</id>
-            <name>sample_release</name>
-            <url>http://13.235.2.189:8081/repository/sample_release/</url>
-        </repository>
         <snapshotRepository>
             <id>SAMPLE_SNAPS</id>
             <name>SAMPLE_SNAPS</name>

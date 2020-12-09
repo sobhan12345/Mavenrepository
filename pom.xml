@@ -20,12 +20,12 @@
   </properties>
    <distributionManagement>
         <repository>
-            <id>deployment</id>
-            <name>Internal Releases</name>
+            <id>sampl_release</id>
+            <name>sample_release</name>
             <url>http://13.235.2.189:8081/repository/sample_release/</url>
         </repository>
         <snapshotRepository>
-            <id>deployment</id>
+            <id>SAMPLE_SNAPS</id>
             <name>SAMPLE_SNAPS</name>
             <url>http://13.235.2.189:8081/repository/SAMPLE_SNAPS/</url>
         </snapshotRepository>

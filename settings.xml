@@ -122,7 +122,7 @@ under the License.
       <password>repopwd</password>
     </server>
     <server>
-      <id>nexus-snapshots</id>
+      <id>SAMPLE_SNAPS</id>
       <username>admin</username>
       <password>admin123</password>
     </server>
